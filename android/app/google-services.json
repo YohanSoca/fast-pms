@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275013377125",
+    "project_id": "fast-pms-75d98",
+    "storage_bucket": "fast-pms-75d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275013377125:android:e8bede7406fa0071793a8c",
+        "android_client_info": {
+          "package_name": "com.example.fast_pms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275013377125-ia61gpprrdr0ionlnjvl3hqhj1tejukf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRoBwxYHB2fp_exWfJeb3O_Q3l-4rvkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275013377125-ia61gpprrdr0ionlnjvl3hqhj1tejukf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
